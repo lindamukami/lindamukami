@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Linda Mukami, a software quality assurance engineer.
-- 👀 I’m interested in everything software testing
-- 🌱 I’m currently building test automation projects using cypress and selenium 
-- 💞️ I love nature and reading books
+- 👀 I’m interested in working on projects that contribute to solving world problems and greater good.
+- 🌱 I’m currently building test automation projects using cypress and selenium.
+- 💞️ I love technology
 - 📫 How to reach me [linkedin:Linda](https://www.linkedin.com/in/linda-macharia-a79b1a110/)
 
 <!---
